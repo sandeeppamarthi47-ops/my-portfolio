@@ -13,9 +13,9 @@ Final year B.Tech student passionate about software development.
 2. AI Chatbot (Basic)
 
 ## Coding Profiles
-- LeetCode: (your link)
-- GitHub: (your link)
+- LeetCode: (sandeeppamarthi)
+- GitHub: (https://github.com/sandeeppamarthi47-ops)
 
 ## Contact
-Email: your email
+Email: sandeeppamarthi47@gmail.com
 LinkedIn: your link my-portfolio
